@@ -1,4 +1,4 @@
-# AirBnB_book_ahead
+# AirBnB_neighborhood_popularity
 Analysis of booking trends in Seattle AirBnB market
 
 
