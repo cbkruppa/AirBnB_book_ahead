@@ -30,7 +30,7 @@ The notebook available here showcases work related to the above questions.  The 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@carrie.kruppa/placeholder-fdecfc27c7c0).
+The main findings of the code can be found at the post available [here](https://carrie-kruppa.medium.com/how-do-you-know-where-to-buy-fdecfc27c7c0).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
