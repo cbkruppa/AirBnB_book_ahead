@@ -20,7 +20,7 @@ For this project, I was interestested in using Seattle AirBnB data from 2016 to 
 
 1. Which neighborhoods in Seattle are in the highest demand?
 2. How does the demand for different neighborhoods change over the course of the year?
-3. Which neighbrohoods show a dramatic changes in thier availability over the year?
+3. Which neighbrohoods show a dramatic changes in their availability over the year?
 
 The data set for this analysis is publicly available at <a href=https://www.kaggle.com/airbnb/seattle/data>Kaggle</a> and is included here.
 
